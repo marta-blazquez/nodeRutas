@@ -1,0 +1,19 @@
+Crear un proyecto con node: 
+
+1. crear servidor con express
+
+2. crear 4 archivos de rutas: index.js, user.js, product.js y login.js
+
+3. En el index crear 3 rutas: '/', '/fabrica', 'empleados' -> enviar un mensaje con la ruta en la qie te encuentras
+
+4. En el user.js 3 rutas: /, altura, edad -> enviar un mensaje con la ruta en la que te encuentras
+
+5. product.js 3 rutas: /calzado, /pantalon, /relog -> enviar un mensaje con la ruta en la que te encuentras
+
+6. login.js 3 rutas /, si, no/:mensaje -> enviar un mensaje con la ruta en la que te encuentras
+
+7. mostrar las variables dinamicas con un console.log
+
+
+para empezar un repositorio
+git init
